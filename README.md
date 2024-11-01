@@ -1,10 +1,10 @@
-# Bond Rate
+# Bank Bond
 
 ## Calculation Basis
 
 ### Duty Stamp
 
-**Rate:** 0.1% of Contract Price
+> 0.1% of Contract Price
 
 ### Down Payment (Advance Payment) Bond 
 
@@ -12,7 +12,11 @@
 
 ### Performance Bond
 
-**Rate:** 10% of Contract Price x Guarantee Rate x Period/12
+> PB = (C x P) / 100
+
+PB is the performance bond amount
+C is the contract amount
+P is the percentage of the contract amount that the bond covers
 
 ### Warranty Bond
 
